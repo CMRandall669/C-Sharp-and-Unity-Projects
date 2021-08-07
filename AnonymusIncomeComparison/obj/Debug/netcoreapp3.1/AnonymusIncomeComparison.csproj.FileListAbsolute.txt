@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\bin\Debug\netcoreapp3.1\AnonymusIncomeComparison.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\bin\Debug\netcoreapp3.1\AnonymusIncomeComparison.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\bin\Debug\netcoreapp3.1\AnonymusIncomeComparison.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\bin\Debug\netcoreapp3.1\AnonymusIncomeComparison.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\bin\Debug\netcoreapp3.1\AnonymusIncomeComparison.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\bin\Debug\netcoreapp3.1\AnonymusIncomeComparison.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AnonymusIncomeComparison\obj\Debug\netcoreapp3.1\AnonymusIncomeComparison.genruntimeconfig.cache

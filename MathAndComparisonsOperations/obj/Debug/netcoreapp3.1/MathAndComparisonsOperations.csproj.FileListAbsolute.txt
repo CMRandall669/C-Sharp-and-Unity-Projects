@@ -1,0 +1,12 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\bin\Debug\netcoreapp3.1\MathAndComparisonsOperations.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\bin\Debug\netcoreapp3.1\MathAndComparisonsOperations.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\bin\Debug\netcoreapp3.1\MathAndComparisonsOperations.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\bin\Debug\netcoreapp3.1\MathAndComparisonsOperations.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\bin\Debug\netcoreapp3.1\MathAndComparisonsOperations.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\bin\Debug\netcoreapp3.1\MathAndComparisonsOperations.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\obj\Debug\netcoreapp3.1\MathAndComparisonsOperations.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\obj\Debug\netcoreapp3.1\MathAndComparisonsOperations.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\obj\Debug\netcoreapp3.1\MathAndComparisonsOperations.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\obj\Debug\netcoreapp3.1\MathAndComparisonsOperations.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\obj\Debug\netcoreapp3.1\MathAndComparisonsOperations.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MathAndComparisonsOperations\obj\Debug\netcoreapp3.1\MathAndComparisonsOperations.genruntimeconfig.cache
