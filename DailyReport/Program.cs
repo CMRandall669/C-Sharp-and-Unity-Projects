@@ -6,6 +6,7 @@ namespace DailyReport
     {
         static void Main(string[] args)
         {
+            bool needHelp = false; 
 
             Console.WriteLine("The Tech Academy");
             Console.WriteLine("Student Daily Report");
@@ -21,15 +22,12 @@ namespace DailyReport
             Console.ReadLine();
 
             Console.WriteLine("What page number of the course are you on?");
-            string pageNumber = Console.ReadLine();
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Current page number is: " + pageNumber);
             Console.ReadLine();
 
-            Console.WriteLine("Do you need help with anything? Please answer true or false");
-            bool needHelp = true;
-            string helpStatus = Convert.ToString(needHelp);
-            Console.WriteLine(helpStatus);
-            Console.ReadLine();
+            Console.WriteLine("Have you ever had a DUI? \nPlease enter true or false.");
+            needHelp = Convert.ToBoolean(Console.ReadLine());
 
             Console.WriteLine("Is there any positive experiences you'd like to share? Please give specfiics");
             string feedback = Console.ReadLine();
@@ -37,7 +35,7 @@ namespace DailyReport
             Console.ReadLine();
 
             Console.WriteLine("How many hours did you study today?");
-            string studyTime = Console.ReadLine();
+            int studyTime = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You studied for: " + studyTime + " hours");
             Console.ReadLine();
 
