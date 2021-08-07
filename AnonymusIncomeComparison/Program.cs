@@ -25,6 +25,19 @@ namespace MathAndComparisonsOperations
             Console.WriteLine("How many hours per week: " + hoursPerWeek2);
             Console.ReadLine();
 
+            int weeksPerYear = 52;
+            int annualSalary1 = hoursPerson1 * hoursPerWeek1 * weeksPerYear;
+            Console.WriteLine("Annual Salary of Person 1 is: " +annualSalary1);
+            Console.ReadLine();
+
+            int annualSalary2 = hoursPerson2 * hoursPerWeek2 * weeksPerYear;
+            Console.WriteLine("Annual Salary of Person 2 is: " + annualSalary2);
+            Console.ReadLine();
+
+            bool makesMore = annualSalary1 > annualSalary2;
+            Console.WriteLine("Does person 1 make more money than person 2?");
+            Console.WriteLine(makesMore);
+            Console.ReadLine();
 
 
         }
