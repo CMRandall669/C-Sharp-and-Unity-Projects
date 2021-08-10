@@ -26,7 +26,7 @@ namespace Basic_Approval_Program
             Console.ReadLine();
 
             Console.WriteLine("Do you qualify for insurance?");
-               if (driverAge >= qualifyAge && hadDUI == false && speedTicket <= speedNumber)
+               if (driverAge > qualifyAge && hadDUI == false && speedTicket <= speedNumber)
             {
                 yayInsurance = true;
                 Console.WriteLine(yayInsurance);
