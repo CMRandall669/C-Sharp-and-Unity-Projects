@@ -7,6 +7,11 @@ namespace Basic_Approval_Program
         static void Main(string[] args)
         {
             bool hadDUI = true;
+            bool yayInsurance = true;
+            int qualifyAge = 15;
+            int speedNumber = 3;
+
+            Console.WriteLine("Answer some questions to see if you qualify for insurance");
 
             Console.WriteLine("What is your age?");
             int driverAge = Convert.ToInt32(Console.ReadLine());
@@ -21,6 +26,24 @@ namespace Basic_Approval_Program
             Console.ReadLine();
 
             Console.WriteLine("Do you qualify for insurance?");
+               if (driverAge >= qualifyAge && hadDUI == false && speedTicket <= speedNumber)
+            {
+                yayInsurance = true;
+                Console.WriteLine(yayInsurance);
+            }
+               else
+            {
+                yayInsurance = false;
+                Console.WriteLine(yayInsurance);
+            }
+
+            Console.ReadLine();
+            
+
+
+
+      
+
 
         }
     }

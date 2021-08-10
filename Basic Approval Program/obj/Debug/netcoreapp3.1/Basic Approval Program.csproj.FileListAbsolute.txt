@@ -10,3 +10,4 @@ C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Progra
 C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.dll
 C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.pdb
 C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.genruntimeconfig.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.csproj.AssemblyReference.cache
