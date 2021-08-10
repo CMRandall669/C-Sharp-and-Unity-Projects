@@ -10,3 +10,4 @@ C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Deb
 C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.dll
 C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.pdb
 C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.genruntimeconfig.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.csproj.AssemblyReference.cache

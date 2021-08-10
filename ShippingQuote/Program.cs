@@ -6,7 +6,6 @@ namespace ShippingQuote
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("Welcome to Package Express. Please follow the intructions below.");
 
             Console.WriteLine("What is the weight of the package?");
@@ -15,8 +14,12 @@ namespace ShippingQuote
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }
-            else if (packageWeight <= 50) ;
+            else
             {
+                if (packageWeight <= 50) ;
+            
+
+
                 Console.WriteLine("What is the width of the package?");
                 int packageWidth = Convert.ToInt32(Console.ReadLine());
 
@@ -30,7 +33,7 @@ namespace ShippingQuote
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                 }
-                
+
                 else
                 {
                     int packageDimensions = packageWidth * packageHeight * packageLength;
@@ -39,11 +42,11 @@ namespace ShippingQuote
 
                     Console.WriteLine("Your estimated total for shipping is : $" + packageTotal);
                     Console.WriteLine("Thank you for your time!");
-                    
-                }
-            }
-  
             }
         }
+        }
+
     }
+        }
+    
 
