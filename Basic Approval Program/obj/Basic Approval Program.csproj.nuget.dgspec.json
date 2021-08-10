@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj": {}
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Basic Approval Program\\Basic Approval Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj": {
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Basic Approval Program\\Basic Approval Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj",
-        "projectName": "DailyReport",
-        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj",
+        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Basic Approval Program\\Basic Approval Program.csproj",
+        "projectName": "Basic Approval Program",
+        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Basic Approval Program\\Basic Approval Program.csproj",
         "packagesPath": "C:\\Users\\cmrEX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\obj\\",
+        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Basic Approval Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

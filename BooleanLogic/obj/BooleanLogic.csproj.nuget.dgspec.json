@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj": {}
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\BooleanLogic\\BooleanLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj": {
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\BooleanLogic\\BooleanLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj",
-        "projectName": "DailyReport",
-        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\DailyReport.csproj",
+        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\BooleanLogic\\BooleanLogic.csproj",
+        "projectName": "BooleanLogic",
+        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\BooleanLogic\\BooleanLogic.csproj",
         "packagesPath": "C:\\Users\\cmrEX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\DailyReport\\obj\\",
+        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\BooleanLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -26,7 +26,7 @@ namespace DailyReport
             Console.WriteLine("Current page number is: " + pageNumber);
             Console.ReadLine();
 
-            Console.WriteLine("Have you ever had a DUI? \nPlease enter true or false.");
+            Console.WriteLine("Did you need help with anything? \nPlease enter true or false.");
             needHelp = Convert.ToBoolean(Console.ReadLine());
 
             Console.WriteLine("Is there any positive experiences you'd like to share? Please give specfiics");

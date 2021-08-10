@@ -1,0 +1,12 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\bin\Debug\netcoreapp3.1\Basic Approval Program.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\bin\Debug\netcoreapp3.1\Basic Approval Program.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\bin\Debug\netcoreapp3.1\Basic Approval Program.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\bin\Debug\netcoreapp3.1\Basic Approval Program.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\bin\Debug\netcoreapp3.1\Basic Approval Program.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\bin\Debug\netcoreapp3.1\Basic Approval Program.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic Approval Program\obj\Debug\netcoreapp3.1\Basic Approval Program.genruntimeconfig.cache
