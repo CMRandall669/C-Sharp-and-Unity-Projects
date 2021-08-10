@@ -1,0 +1,12 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\bin\Debug\netcoreapp3.1\ShippingQuote.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ShippingQuote\obj\Debug\netcoreapp3.1\ShippingQuote.genruntimeconfig.cache
