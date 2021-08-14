@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\bin\Debug\netcoreapp3.1\BooleanLoop.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\bin\Debug\netcoreapp3.1\BooleanLoop.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\bin\Debug\netcoreapp3.1\BooleanLoop.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\bin\Debug\netcoreapp3.1\BooleanLoop.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\bin\Debug\netcoreapp3.1\BooleanLoop.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\bin\Debug\netcoreapp3.1\BooleanLoop.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BooleanLoop\obj\Debug\netcoreapp3.1\BooleanLoop.genruntimeconfig.cache

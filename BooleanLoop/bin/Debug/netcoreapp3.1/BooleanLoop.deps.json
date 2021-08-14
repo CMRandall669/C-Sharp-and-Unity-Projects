@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BooleanLoop/1.0.0": {
+        "runtime": {
+          "BooleanLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooleanLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
