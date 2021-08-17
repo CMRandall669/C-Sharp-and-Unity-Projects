@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\bin\Debug\netcoreapp3.1\ArraysSubmission.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\bin\Debug\netcoreapp3.1\ArraysSubmission.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\bin\Debug\netcoreapp3.1\ArraysSubmission.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\bin\Debug\netcoreapp3.1\ArraysSubmission.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\bin\Debug\netcoreapp3.1\ArraysSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\bin\Debug\netcoreapp3.1\ArraysSubmission.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ArraysSubmission\obj\Debug\netcoreapp3.1\ArraysSubmission.genruntimeconfig.cache
