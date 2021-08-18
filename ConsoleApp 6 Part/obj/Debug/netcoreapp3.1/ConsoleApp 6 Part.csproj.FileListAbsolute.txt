@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\bin\Debug\netcoreapp3.1\ConsoleApp 6 Part.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\bin\Debug\netcoreapp3.1\ConsoleApp 6 Part.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\bin\Debug\netcoreapp3.1\ConsoleApp 6 Part.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\bin\Debug\netcoreapp3.1\ConsoleApp 6 Part.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\bin\Debug\netcoreapp3.1\ConsoleApp 6 Part.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\bin\Debug\netcoreapp3.1\ConsoleApp 6 Part.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleApp 6 Part\obj\Debug\netcoreapp3.1\ConsoleApp 6 Part.genruntimeconfig.cache
