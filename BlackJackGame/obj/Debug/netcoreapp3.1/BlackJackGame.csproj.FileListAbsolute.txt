@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.genruntimeconfig.cache
