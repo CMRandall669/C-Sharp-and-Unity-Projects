@@ -62,30 +62,42 @@ namespace ConsoleApp_6_Part
 
 
             //ASSIGNMENT PART 4 
-            //List<string> animals= new List<string>() { "bear", "cat", "bird", "dog", "fish", "snake" };
-            //Console.WriteLine("Please enter the name of an animal: ");
-            //string thisOne = Console.ReadLine();
+            List<string> animals = new List<string>() { "bear", "cat", "bird", "dog", "fish", "snake" };
+            Console.WriteLine("Please enter the name of an animal: ");
+            string thisOne = Console.ReadLine();
 
-            //foreach (string animal in animals)
-            //{
-            //    if (animal == thisOne)
-            //    {
-            //        Console.WriteLine(thisOne + " is number " + animals.IndexOf(thisOne) + " on the list");
-            //        return;
-            //    }
-            //    Console.ReadLine();
-            //}
+            for (string animal in animals)
 
 
-            //foreach (string animal in animals)
-            //{
-            //    if (animal != thisOne)
-            //    {
-            //        Console.WriteLine("Not here");
-            //        return;
-            //    }
-            //    Console.ReadLine();
-            //}
+
+
+
+
+
+            List<string> animals = new List<string>() { "bear", "cat", "bird", "dog", "fish", "snake" };
+            Console.WriteLine("Please enter the name of an animal: ");
+            string thisOne = Console.ReadLine();
+
+            foreach (string animal in animals)
+            {
+                if (animal == thisOne)
+                {
+                    Console.WriteLine(thisOne + " is number " + animals.IndexOf(thisOne) + " on the list");
+                    return;
+                }
+                Console.ReadLine();
+            }
+
+
+            foreach (string animal in animals)
+            {
+                if (animal != thisOne)
+                {
+                    Console.WriteLine("Not here");
+                    return;
+                }
+                Console.ReadLine();
+            }
 
 
 
@@ -139,15 +151,15 @@ namespace ConsoleApp_6_Part
             //    }
 
             //ASSIGNMENT 6
-            List<string> names = new List<string>() { "Lawrence", "Adams", "Pitt", "Tom", "Jerry", "Adams", "Jack" };
+            //List<string> names = new List<string>() { "Lawrence", "Adams", "Pitt", "Tom", "Jerry", "Adams", "Jack" };
 
-            foreach (string name in names)
-            {
-                bool alreadyExist = names.Contains(name[0]);
-                Console.WriteLine(alreadyExist);
-                Console.ReadLine();
-            }
-            
+            //foreach (string name in names)
+            //{
+            //    bool alreadyExist = names.Contains(name[0]);
+            //    Console.WriteLine(alreadyExist);
+            //    Console.ReadLine();
+            //}
+
 
 
 
