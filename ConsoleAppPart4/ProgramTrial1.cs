@@ -11,25 +11,16 @@ namespace ConsoleAppPart4
             Console.WriteLine("Please enter the name of an animal: ");
             string thisOne = Console.ReadLine();
 
-            foreach (string animal in animals)
+            for (int i = 0; i < animals.Count; i++)
             {
-                if (animal == thisOne)
+                if (animals[i] == thisOne)
                 {
-                    Console.WriteLine(thisOne + " is number " + animals.IndexOf(thisOne) + " on the list");
-                    return;
+                    Console.WriteLine("Match found at index: " + i);
                 }
-                Console.ReadLine();
             }
 
-
-            foreach (string animal in animals)
-            {
-                if (animal != thisOne)
-                {
-                    Console.WriteLine("Not here");
-                    return;
-                }
-                Console.ReadLine();
+            if (animals.Contains(thisOne)) {
+                Console.WriteLine("Not Here");
             }
         }
     }

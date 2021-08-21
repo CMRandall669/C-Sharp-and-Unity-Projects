@@ -29,7 +29,7 @@ namespace ConsoleApp_6_Part
             //ASSIGNMENT 2 AND 3
             //HERE'S AN INFINITE LOOP
 
-            //Console.WriteLine("Infinite loop!!!!");                   
+            //Console.WriteLine("Infinite loop!!!!");
             //for (int a = 0; a < 10; a--)
             //{
             //    Console.WriteLine("value : {0}", a);
@@ -39,7 +39,7 @@ namespace ConsoleApp_6_Part
 
             //THIS IS THE CORRECTED INFINITE LOOP ALSO IS A LOOP USING THE LESS THAN OPERATOR
 
-            //Console.WriteLine("Fixed infinite loop and using the less than operator");            
+            //Console.WriteLine("Fixed infinite loop and using the less than operator");
             //for (int a = 0; a < 10; a++)
             //{
             //    Console.WriteLine("value : {0}", a);
@@ -48,7 +48,7 @@ namespace ConsoleApp_6_Part
 
 
             //LOOP USES LESS THAN OR EQAUL TO OPERATOR
-            //Console.WriteLine("Using Less than or equal to operator");           
+            //Console.WriteLine("Using Less than or equal to operator");
             //for (int a = 0; a <= 10; a++)
             //{
             //    Console.WriteLine("value : {0}", a);
@@ -62,42 +62,23 @@ namespace ConsoleApp_6_Part
 
 
             //ASSIGNMENT PART 4 
-            List<string> animals = new List<string>() { "bear", "cat", "bird", "dog", "fish", "snake" };
-            Console.WriteLine("Please enter the name of an animal: ");
-            string thisOne = Console.ReadLine();
+            //List<string> animals = new List<string>() { "bear", "cat", "bird", "dog", "fish", "snake" };
+            //Console.WriteLine("Please enter the name of an animal: ");
+            //string thisOne = Console.ReadLine();
 
-            for (string animal in animals)
+            //for (int i = 0; i < animals.Count; i++)
+            //{
+            //    if (animals[i] == thisOne)
+            //    {
+            //        Console.WriteLine("Match found at index: " + i);
+            //    }
+            //}
 
-
-
-
-
-
-
-            List<string> animals = new List<string>() { "bear", "cat", "bird", "dog", "fish", "snake" };
-            Console.WriteLine("Please enter the name of an animal: ");
-            string thisOne = Console.ReadLine();
-
-            foreach (string animal in animals)
-            {
-                if (animal == thisOne)
-                {
-                    Console.WriteLine(thisOne + " is number " + animals.IndexOf(thisOne) + " on the list");
-                    return;
-                }
-                Console.ReadLine();
-            }
-
-
-            foreach (string animal in animals)
-            {
-                if (animal != thisOne)
-                {
-                    Console.WriteLine("Not here");
-                    return;
-                }
-                Console.ReadLine();
-            }
+            //if (!animals.Contains(thisOne))
+            //{
+            //    Console.WriteLine("No match found in the index");
+            //}
+            //Console.ReadLine();
 
 
 
@@ -113,7 +94,7 @@ namespace ConsoleApp_6_Part
             //muscleCars.Add("Camaro");
             //muscleCars.Add("Challenger");
             //muscleCars.Add("Corvette");
-            //muscleCars.Add("Tran Am");
+            //muscleCars.Add("Trans Am");
             //muscleCars.Add("Charger");
             //muscleCars.Add("GTO");
 
@@ -130,7 +111,7 @@ namespace ConsoleApp_6_Part
             //            motor >= 0;
             //            motor = muscleCars.IndexOf(carPick, motor + 1))
             //        {
-            //            Console.WriteLine("This car appears at " + motor);
+            //            Console.WriteLine("This car appears at index " + motor);
 
             //        }
             //        Console.ReadLine();
@@ -139,26 +120,41 @@ namespace ConsoleApp_6_Part
             //}
 
             //foreach (string car in muscleCars)
+            //{
+            //    if (car != carPick)
             //    {
-            //        if (car != carPick)
-            //        {
-            //            Console.WriteLine("This is not in the list");
+            //        Console.WriteLine("This is not in the list");
             //        Console.ReadLine();
             //        return;
             //    }
 
 
-            //    }
+            //}
 
             //ASSIGNMENT 6
             //List<string> names = new List<string>() { "Lawrence", "Adams", "Pitt", "Tom", "Jerry", "Adams", "Jack" };
+            //List<string> names2 = new List<string>() { };
 
-            //foreach (string name in names)
+            //foreach (string i in names)
             //{
-            //    bool alreadyExist = names.Contains(name[0]);
-            //    Console.WriteLine(alreadyExist);
-            //    Console.ReadLine();
+            //    if (names2.Contains(i))
+            //    {
+            //        Console.WriteLine("The name Adams has already appeared");
+            //    }
+
+            //    if (!names2.Contains(i))
+            //    {
+            //        names2.Add(i);
+            //    }
+
+                
+
             //}
+
+            //Console.ReadLine();
+            
+
+            
 
 
 
