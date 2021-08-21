@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\bin\Debug\netcoreapp3.1\ExceptionAppAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\bin\Debug\netcoreapp3.1\ExceptionAppAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\bin\Debug\netcoreapp3.1\ExceptionAppAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\bin\Debug\netcoreapp3.1\ExceptionAppAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\bin\Debug\netcoreapp3.1\ExceptionAppAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\bin\Debug\netcoreapp3.1\ExceptionAppAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ExceptionAppAssignment\obj\Debug\netcoreapp3.1\ExceptionAppAssignment.genruntimeconfig.cache
