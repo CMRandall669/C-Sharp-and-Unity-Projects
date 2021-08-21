@@ -1,0 +1,12 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\bin\Debug\netcoreapp3.1\ConsoleAppPart6Solo.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\bin\Debug\netcoreapp3.1\ConsoleAppPart6Solo.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\bin\Debug\netcoreapp3.1\ConsoleAppPart6Solo.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\bin\Debug\netcoreapp3.1\ConsoleAppPart6Solo.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\bin\Debug\netcoreapp3.1\ConsoleAppPart6Solo.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\bin\Debug\netcoreapp3.1\ConsoleAppPart6Solo.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\obj\Debug\netcoreapp3.1\ConsoleAppPart6Solo.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\obj\Debug\netcoreapp3.1\ConsoleAppPart6Solo.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\obj\Debug\netcoreapp3.1\ConsoleAppPart6Solo.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\obj\Debug\netcoreapp3.1\ConsoleAppPart6Solo.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\obj\Debug\netcoreapp3.1\ConsoleAppPart6Solo.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppPart6Solo\obj\Debug\netcoreapp3.1\ConsoleAppPart6Solo.genruntimeconfig.cache
