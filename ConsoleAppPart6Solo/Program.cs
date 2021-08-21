@@ -7,7 +7,7 @@ namespace ConsoleAppPart6Solo
     {
         static void Main(string[] args)
         {
-             List<string> names = new List<string>() { "Lawrence", "Adams", "Pitt", "Tom", "Jerry", "Adams", "Jack" };
+            List<string> names = new List<string>() { "Lawrence", "Adams", "Pitt", "Tom", "Jerry", "Adams", "Jack" };
             List<string> names2 = new List<string>() { };
 
             foreach (string i in names)
