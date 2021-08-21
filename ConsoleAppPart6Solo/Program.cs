@@ -14,16 +14,13 @@ namespace ConsoleAppPart6Solo
             {
                 if (names2.Contains(i))
                 {
-                    Console.WriteLine("The name Adams has already appeared");
+                    Console.WriteLine("The name " + i + " has appeared before.");
                 }
-
-                if (!names2.Contains(i))
+                else
                 {
-                    names2.Add(i);
+                    Console.WriteLine("The name " + i + " has not appeared before");
                 }
-
-
-
+                names2.Add(i);
             }
         }
     }
