@@ -1,0 +1,13 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.genruntimeconfig.cache
