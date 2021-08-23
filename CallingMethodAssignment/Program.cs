@@ -12,7 +12,7 @@ namespace CallingMethodAssignment
             Console.WriteLine("Start by inputing a number");
             input.userNumber();
 
-            Console.WriteLine(input.userNumber());
+            Console.WriteLine(input);
             
           
            
