@@ -13,7 +13,7 @@ namespace CallingMethodAssignment
             input.userNumber();
 
             Console.WriteLine(input);
-            
+            Console.ReadLine(); 
           
            
             
