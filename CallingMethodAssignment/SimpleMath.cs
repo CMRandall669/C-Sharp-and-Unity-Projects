@@ -7,23 +7,32 @@ namespace CallingMethodAssignment
 
     public class Input 
     {
-        public int userNumber()
+
+        public int firstNumber { get; set; }
+        public int userResult()
         {
-            Console.WriteLine("Enter a number: ");
-            int firstNumber = Convert.ToInt32(Console.ReadLine());
-            return firstNumber;
-
-            int userResult(int secondInteger = 10)
-            {
-                int endResult = firstNumber * secondInteger;
-                Console.WriteLine(endResult);
-                return userResult();
-            }
-
-           
+            int result = firstNumber * 10;    
+            return result;
         }
+
+        
+        public int userResult2()
+        {
+            int result = firstNumber * 20;
+            return result;
+        }
+
+        
+        public int userResult3()
+        {
+            int result = firstNumber * 30;
+            return result;
+        }
+
+
     }
-}
+    }
+
 
   
     
