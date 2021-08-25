@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\ref\MethodClassSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\bin\Debug\net5.0\MethodClassSubmission.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\ref\MethodClassSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmission\obj\Debug\net5.0\MethodClassSubmission.genruntimeconfig.cache
