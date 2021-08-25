@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\MethodSubmissionAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\MethodSubmissionAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\MethodSubmissionAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\MethodSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\MethodSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\ref\MethodSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\bin\Debug\net5.0\MethodSubmissionAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\ref\MethodSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodSubmissionAssignment\obj\Debug\net5.0\MethodSubmissionAssignment.genruntimeconfig.cache
