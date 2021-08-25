@@ -25,7 +25,7 @@ namespace MethodClassSubmission
             int NumberThree = NumberOne + 250;
             Console.WriteLine(NumberThree + " is the result of the first number plus 250 ");
             Console.WriteLine("The second integer you provided was " + NumberTwo);
-            Console.ReadLine();
+            
 
         }
         
