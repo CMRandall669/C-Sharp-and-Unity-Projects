@@ -16,7 +16,7 @@ namespace MethodSubmissionAssignment
             Console.WriteLine("Please enter the first number: ");
             int numberOne = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You enter " + numberOne + " as the first number.");
-            Console.ReadLine();
+            
 
             int numberTwo;
             Console.WriteLine("Please enter a second number. You can leave this blank if you prefer");
@@ -25,7 +25,7 @@ namespace MethodSubmissionAssignment
             {
 
                 Console.WriteLine("You entered " +numberTwo + " as the second number.");
-                Console.ReadLine();
+                
                 int numberThree = numberOne * numberTwo;
                 Console.WriteLine("The product of " + numberOne + " and " + numberTwo + " is " + numberThree);
             }
@@ -33,7 +33,7 @@ namespace MethodSubmissionAssignment
             {
                 numberTwo = 0;
                 Console.WriteLine("Because you didnt enter a number, we're just going to make this a " +numberTwo);
-                Console.ReadLine();
+                
                 int numberThree = numberOne * numberTwo;
                 Console.WriteLine("Any number multiplied by " +numberTwo + " will always be " + numberThree + ": so " + numberOne + " multiplied by " + numberTwo + " will equal " + numberThree);
             }
