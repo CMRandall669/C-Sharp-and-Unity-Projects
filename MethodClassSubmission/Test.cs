@@ -8,25 +8,13 @@ namespace MethodClassSubmission
 {
     public class Test
     {
-        public int NumberOne { get; set; }
-        public int NumberTwo { get; set; }
 
-        public void MathOperation()
+
+        public void MathOperation(int num1, int num2)
         {
-
-            Console.WriteLine("Please enter the first number: ");
-            int NumberOne = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You enter " + NumberOne + " as the first number.");
-
-            Console.WriteLine("Please enter the second number: ");
-            int NumberTwo = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You enter " + NumberTwo + " as the second number.");
-
-            int NumberThree = NumberOne + 250;
-            Console.WriteLine(NumberThree + " is the result of the first number plus 250 ");
-            Console.WriteLine("The second integer you provided was " + NumberTwo);
-            
-
+            int num3 = num1 + 250;
+            Console.WriteLine("The first integer parameter " + num1 + " plus 250 equals " + num3);
+            Console.WriteLine("The second integer parameter is " + num2);
         }
         
 

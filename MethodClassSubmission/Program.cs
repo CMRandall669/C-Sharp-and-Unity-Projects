@@ -9,7 +9,7 @@ namespace MethodClassSubmission
             Test test = new Test();
 
 
-            test.MathOperation();
+            test.MathOperation(10, 15);
             Console.ReadLine();
         }
     }
