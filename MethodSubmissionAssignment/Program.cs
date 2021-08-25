@@ -8,6 +8,7 @@ namespace MethodSubmissionAssignment
         {
             twoNumber two = new twoNumber();
             Console.WriteLine("Please enter 2 numbers and see some multiplication in action");
+            Console.ReadLine();
             Console.WriteLine(two.mathAnswer());
             Console.ReadLine();
 
