@@ -44,12 +44,18 @@ namespace MainMethodAssignment
                         Console.WriteLine("The word " + stringInput + " is longer than 4 letters");
                     }
 
-                    if (stringInput.Length <= 4)
+                    if (stringInput.Length == 4)
                     {
                         Console.WriteLine("The word " + stringInput + " is at least 4 letters long.");
                     }
-                    Console.ReadLine();
                     
+
+                    if (stringInput.Length < 4)
+                    {
+                        Console.WriteLine("The word " + stringInput + " is less than 4 letters long.");
+                    }
+                    Console.ReadLine();
+
 
                 }
             }
