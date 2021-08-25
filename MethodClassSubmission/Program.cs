@@ -6,10 +6,10 @@ namespace MethodClassSubmission
     {
         static void Main(string[] args)
         {
-            voidClass empty = new voidClass();
-            
+            Test test = new Test();
 
-            Console.WriteLine(empty.mathOperation());
+
+            test.MathOperation();
             Console.ReadLine();
         }
     }

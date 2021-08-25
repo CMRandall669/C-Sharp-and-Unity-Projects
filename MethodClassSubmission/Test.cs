@@ -8,11 +8,12 @@ namespace MethodClassSubmission
 {
     public class Test
     {
-        //public int NumberOne { get; set; }
-        //public int NumberTwo { get; set; }
+        public int NumberOne { get; set; }
+        public int NumberTwo { get; set; }
 
         public void MathOperation()
         {
+
             Console.WriteLine("Please enter the first number: ");
             int NumberOne = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You enter " + NumberOne + " as the first number.");
@@ -25,7 +26,7 @@ namespace MethodClassSubmission
             Console.WriteLine(NumberThree + " is the result of the first number plus 250 ");
             Console.WriteLine("The second integer you provided was " + NumberTwo);
             Console.ReadLine();
-            
+
         }
         
 
