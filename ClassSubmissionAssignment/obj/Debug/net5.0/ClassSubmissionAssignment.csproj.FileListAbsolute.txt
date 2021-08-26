@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ClassSubmissionAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ClassSubmissionAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ClassSubmissionAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ClassSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ClassSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ref\ClassSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\bin\Debug\net5.0\ClassSubmissionAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ref\ClassSubmissionAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ClassSubmissionAssignment\obj\Debug\net5.0\ClassSubmissionAssignment.genruntimeconfig.cache
