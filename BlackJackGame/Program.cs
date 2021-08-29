@@ -10,6 +10,9 @@ namespace BlackJackGame
     {
         static void Main(string[] args)
         {
+            List<Game> games = new List<Game>();
+            TwentyOneGame game = new TwentyOneGame();
+            games.Add(game);
             
             Deck deck = new Deck();
             deck.Shuffle(3);
