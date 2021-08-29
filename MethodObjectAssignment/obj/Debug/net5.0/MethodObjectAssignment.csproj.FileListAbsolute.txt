@@ -1,0 +1,16 @@
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\MethodObjectAssignment.exe
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\MethodObjectAssignment.deps.json
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\MethodObjectAssignment.runtimeconfig.json
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\MethodObjectAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\MethodObjectAssignment.dll
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\ref\MethodObjectAssignment.dll
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\bin\Debug\net5.0\MethodObjectAssignment.pdb
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.dll
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\ref\MethodObjectAssignment.dll
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.pdb
+C:\Users\cmrEX\source\repos\MethodObjectAssignment\obj\Debug\net5.0\MethodObjectAssignment.genruntimeconfig.cache
