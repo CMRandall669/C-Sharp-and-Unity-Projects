@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\AbstractAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\AbstractAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\AbstractAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\AbstractAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\AbstractAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\ref\AbstractAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\bin\Debug\net5.0\AbstractAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\ref\AbstractAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\AbstractAssignment\obj\Debug\net5.0\AbstractAssignment.genruntimeconfig.cache
