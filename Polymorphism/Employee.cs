@@ -10,18 +10,21 @@ namespace Polymorphism
     {
         public void Quit()
         {
+
             bool getMeOut = true;
             Console.WriteLine("Quit? true or false");
             getMeOut = Convert.ToBoolean(Console.ReadLine());
             if (getMeOut == true)
             {
-                Console.WriteLine("Quit");
+                Console.WriteLine("End of program");
                 return;
             }
 
             else if (getMeOut == false)
             {
-                Console.WriteLine("Working?");
+                firstName = "Sample";
+                lastName = "Student";
+                SayName();
                 
             }
         }

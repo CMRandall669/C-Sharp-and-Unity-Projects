@@ -10,11 +10,11 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            IQuittable quit = new Employee();
 
-            employee.firstName = "Sample";
-            employee.lastName = "Student";
-            employee.Quit();
+            
+            quit.Quit();
+            
             
             
             Console.ReadLine();

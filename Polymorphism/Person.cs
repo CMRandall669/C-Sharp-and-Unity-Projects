@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Polymorphism
 {
-    public class Person
+    public class Person 
     {
         public string firstName { get; set; }
         public string lastName { get; set; }

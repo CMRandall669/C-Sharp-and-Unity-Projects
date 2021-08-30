@@ -7,8 +7,7 @@ using System.Net.NetworkInformation;
 
 namespace Polymorphism
 {
-    public interface IQuittable
-    {
+    public interface IQuittable     {
         void Quit(); 
     }
 }
