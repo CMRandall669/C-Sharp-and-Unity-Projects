@@ -12,9 +12,10 @@ namespace Polymorphism
         {
             Employee employee = new Employee();
 
-            employee.Quit(employee);
             employee.firstName = "Sample";
             employee.lastName = "Student";
+            employee.Quit();
+            
             
             Console.ReadLine();
         }

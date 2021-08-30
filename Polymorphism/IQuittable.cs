@@ -9,6 +9,6 @@ namespace Polymorphism
 {
     public interface IQuittable
     {
-        void Quit(Employee employee); 
+        void Quit(); 
     }
 }

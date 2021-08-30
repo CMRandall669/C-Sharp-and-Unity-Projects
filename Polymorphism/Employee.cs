@@ -8,7 +8,7 @@ namespace Polymorphism
 {
     public class Employee : Person, IQuittable
     {
-        public void Quit(Employee employee)
+        public void Quit()
         {
             bool getMeOut = true;
             Console.WriteLine("Quit? true or false");
@@ -22,7 +22,7 @@ namespace Polymorphism
             else if (getMeOut == false)
             {
                 Console.WriteLine("Working?");
-                employee.SayName();
+                
             }
         }
     }
