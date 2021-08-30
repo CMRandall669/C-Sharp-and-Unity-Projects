@@ -4,16 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodObjectAssignment
+namespace Polymorphism
 {
     public class Program
     {
         static void Main(string[] args)
         {
             Employee employee = new Employee();
+
+            employee.Quit(employee);
             employee.firstName = "Sample";
             employee.lastName = "Student";
-            employee.SayName();
+            
             Console.ReadLine();
         }
     }
