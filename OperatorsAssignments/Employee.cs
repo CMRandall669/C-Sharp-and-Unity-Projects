@@ -42,16 +42,7 @@ namespace OperatorsAssignments
             return Equals(obj as Employee);
         }
 
-        //public override bool Equals(object obj)
-        //{
-        //    Employee employee = obj as Employee;
-
-        //    if (employee != null)
-        //    {
-        //        return employee.Id.Equals(this.Id);
-        //    }
-        //    return false;
-        //}
+        
 
     }
 }
