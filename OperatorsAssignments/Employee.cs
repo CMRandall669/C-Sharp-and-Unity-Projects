@@ -6,29 +6,52 @@ using System.Threading.Tasks;
 
 namespace OperatorsAssignments
 {
-    public class Employee1 : Test
+    public class Employee : Person, IEquatable<Employee>
     {
-        string firstName = "Alan";
-        string lastName = "Harper";
-
-        public static bool operator ==(Employee1 employee1, Employee2 employee2)
+       public int Id { get; set; }
+        public static bool operator ==(Employee emp1, Employee emp2)
         {
-            return true;
+            if (emp1.Id.Equals(emp2.Id))
+            {
+                return true;
+            }
+            return false;
+        }
+       
+        public static bool operator !=(Employee emp1, Employee emp2)
+        {
+            if (!emp1.Id.Equals(emp2.Id))
+            {
+                return true;
+            }
+            return false;
         }
 
-        public static bool operator !=(Employee1 employee1, Employee2 employee2)
+        public bool Equals(Employee other)
         {
-            return true;
-        }
-
-        public override bool Equals(object o)
-        {
-            return true;
+            return other.Id.Equals(this.Id);
         }
 
         public override int GetHashCode()
         {
-            return 0;
+            return base.GetHashCode();
         }
+
+        public override bool Equals(object obj)
+        {
+            return Equals(obj as Employee);
+        }
+
+        //public override bool Equals(object obj)
+        //{
+        //    Employee employee = obj as Employee;
+
+        //    if (employee != null)
+        //    {
+        //        return employee.Id.Equals(this.Id);
+        //    }
+        //    return false;
+        //}
+
     }
 }

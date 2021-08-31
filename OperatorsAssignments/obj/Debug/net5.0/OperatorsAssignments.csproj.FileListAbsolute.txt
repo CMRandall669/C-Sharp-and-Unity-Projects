@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\OperatorsAssignments.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\OperatorsAssignments.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\OperatorsAssignments.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\OperatorsAssignments.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\OperatorsAssignments.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\ref\OperatorsAssignments.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\bin\Debug\net5.0\OperatorsAssignments.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\ref\OperatorsAssignments.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\OperatorsAssignments\obj\Debug\net5.0\OperatorsAssignments.genruntimeconfig.cache
