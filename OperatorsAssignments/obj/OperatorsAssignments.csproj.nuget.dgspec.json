@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsSubmission\\OperatorsSubmission.csproj": {}
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsAssignments\\OperatorsAssignments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsSubmission\\OperatorsSubmission.csproj": {
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsAssignments\\OperatorsAssignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsSubmission\\OperatorsSubmission.csproj",
-        "projectName": "OperatorsSubmission",
-        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsSubmission\\OperatorsSubmission.csproj",
+        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsAssignments\\OperatorsAssignments.csproj",
+        "projectName": "OperatorsAssignments",
+        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsAssignments\\OperatorsAssignments.csproj",
         "packagesPath": "C:\\Users\\cmrEX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsSubmission\\obj\\",
+        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\OperatorsAssignments\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
