@@ -6,18 +6,20 @@ using System.Threading.Tasks;
 
 namespace EnumsSubmission
 {
-    class Weekday
+    class OneWeek
     {
 
-        public enum Day
+        public enum days
         {
-            Monday,
+            Monday = 1,
             Tuesday,
             Wednesday,
             Thursday,
             Friday,
             Saturday,
             Sunday
+
         }
+
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\EnumsSubmission.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\EnumsSubmission.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\EnumsSubmission.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\EnumsSubmission.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\EnumsSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\ref\EnumsSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\bin\Debug\net5.0\EnumsSubmission.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\ref\EnumsSubmission.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\EnumsSubmission\obj\Debug\net5.0\EnumsSubmission.genruntimeconfig.cache
