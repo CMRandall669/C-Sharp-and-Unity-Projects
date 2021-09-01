@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ParametersAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ParametersAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ParametersAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ParametersAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ParametersAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ref\ParametersAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\bin\Debug\net5.0\ParametersAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ref\ParametersAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersAssignment\obj\Debug\net5.0\ParametersAssignment.genruntimeconfig.cache
