@@ -1,0 +1,16 @@
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\LambdaAssignment.exe
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\LambdaAssignment.deps.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\LambdaAssignment.runtimeconfig.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\LambdaAssignment.runtimeconfig.dev.json
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\LambdaAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\ref\LambdaAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\net5.0\LambdaAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.AssemblyInfo.cs
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\ref\LambdaAssignment.dll
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.pdb
+C:\Users\cmrEX\Documents\GitHub\C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\net5.0\LambdaAssignment.genruntimeconfig.cache
