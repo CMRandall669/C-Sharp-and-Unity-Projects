@@ -7,9 +7,9 @@ namespace LambdaAssignment
     {
         static void Main(string[] args)
         {
-
+            
             List<Employee> employee = new List<Employee>();
-            List<string> joes = new List<string>();
+            List<Joes> joesList = new List<Joes>();
 
             employee.Add(new Employee { Name = "Andy Warhol", Id = 1 });
             employee.Add(new Employee { Name = "Franklin Two", Id = 2 });
@@ -24,12 +24,12 @@ namespace LambdaAssignment
 
             foreach (var hire in employee)
             {
-                string newHire = Convert.ToString(hire);
-                Console.WriteLine(newHire);
+                if (employee.Contains(hire))
+                {
+                    joesList.Add(hire);
+                }
             }
-            //Employee<string> employee2 = new Employee<string>();
-            //employee2.entry = new List<string>() { "Andy Warhol", "Franklin Two", "Zao Shang", "Jackson Pollock", "Agent K",
-            //"Albus Dumbledore", "Alan Rickman", "Steve Buscemi", "Joe Dirt",  "Joe Jonas"};
+            
 
 
 
