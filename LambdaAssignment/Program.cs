@@ -9,24 +9,24 @@ namespace LambdaAssignment
         {
             
             List<Employee> employee = new List<Employee>();
-            List<Joes> joesList = new List<Joes>();
+            List<Employee> employeeJoe = new List<Employee>();
 
-            employee.Add(new Employee { Name = "Andy Warhol", Id = 1 });
-            employee.Add(new Employee { Name = "Franklin Two", Id = 2 });
-            employee.Add(new Employee { Name = "Zao Shang", Id = 3 });
-            employee.Add(new Employee { Name = "Jackson Pollock", Id = 4 });
-            employee.Add(new Employee { Name = "Agent K", Id = 5 });
-            employee.Add(new Employee { Name = "Albus Dumbledore", Id = 6 });
-            employee.Add(new Employee { Name = "Alan Rickman", Id = 7 });
-            employee.Add(new Employee { Name = "Steve Buscemi", Id = 8 });
-            employee.Add(new Employee { Name = "Joe Dirt", Id = 9 });
-            employee.Add(new Employee { Name = "Joe Pistachio", Id = 10 });
+            employee.Add(new Employee { firstName = "Andy", lastName = "Warhol", Id = 1 });
+            employee.Add(new Employee { firstName = "Franklin", lastName = "Two", Id = 2 });
+            employee.Add(new Employee { firstName = "Zao", lastName = "Shang", Id = 3 });
+            employee.Add(new Employee { firstName = "Jackson", lastName = "Pollock", Id = 4 });
+            employee.Add(new Employee { firstName = "Agent", lastName = "Kalvin", Id = 5 });
+            employee.Add(new Employee { firstName = "Albus", lastName = "Dumbledore", Id = 6 });
+            employee.Add(new Employee { firstName = "Alan", lastName = "Rickman", Id = 7 });
+            employee.Add(new Employee { firstName = "Steve", lastName = "Buscemi", Id = 8 });
+            employee.Add(new Employee { firstName = "Joe", lastName = "Dirt", Id = 9 });
+            employee.Add(new Employee { firstName = "Joe", lastName = "Pistachio", Id = 10 });
 
             foreach (var hire in employee)
             {
-                if (employee.Contains(hire))
+                if (employee.firstName = "Joe")
                 {
-                    joesList.Add(hire);
+                    employeeJoe.Add(hire);
                 }
             }
             

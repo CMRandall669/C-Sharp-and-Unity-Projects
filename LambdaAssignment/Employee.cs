@@ -8,17 +8,16 @@ namespace LambdaAssignment
 {
     public class Employee 
     {
-        public string Name { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
         public int Id { get; set; }
 
         public Employee()
         {
         }
 
-        public Employee(string Name, int Id)
-        {
-            Name = Name;
-            Id = Id;
+        public Employee(string firstName, string lastName, int Id)
+        { 
         }
     }
 }
