@@ -24,36 +24,36 @@ namespace LambdaAssignment
             employee.Add(new Employee { firstName = "Joe", lastName = "Dirt", Id = 9 });
             employee.Add(new Employee { firstName = "Joe", lastName = "Pistachio", Id = 10 });
 
+
+
+
             employee.ForEach(x =>
             {
                 if (x.firstName == "Joe")
                 {
                     employeeJoe.Add(x);
 
-                    foreach (var joe in employeeJoe)
-                    {
-                        Console.WriteLine(joe.firstName);
-                    }
+                    Console.WriteLine(x.firstName, x.lastName, x.Id);
+
                 }
 
             }
 
             );
 
-            employee.ForEach(x =>
-            {
-                if (x.Id > 5)
-                {
-                    employeeID.Add(x);
+            //employee.ForEach(x =>
+            //{
+            //    if (x.Id > 5)
+            //    {
+            //        employeeID.Add(x);
 
-                    foreach (var number in employeeID)
-                    {
-                        Console.WriteLine(number.firstName);
-                    }
-                }
-            }
-            );
-            
+            //            Console.WriteLine(x.firstName, x.lastName, x.Id);
+
+
+            //    }
+            //}
+            //);
+
 
             //foreach (var hire in employee)
             //{
