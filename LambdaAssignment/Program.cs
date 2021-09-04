@@ -10,7 +10,7 @@ namespace LambdaAssignment
         {
 
             List<Employee> employee = new List<Employee>();
-            List<Employee> employeeJoe = new List<Employee>();
+            //List<Employee> employeeJoe = new List<Employee>();
             List<Employee> employeeID = new List<Employee>();
 
             employee.Add(new Employee { firstName = "Andy", lastName = "Warhol", Id = 1 });
@@ -25,52 +25,28 @@ namespace LambdaAssignment
             employee.Add(new Employee { firstName = "Joe", lastName = "Pistachio", Id = 10 });
 
 
-
-
-            employee.ForEach(x =>
-            {
-                if (x.firstName == "Joe")
-                {
-                    employeeJoe.Add(x);
-
-                    Console.WriteLine(x.firstName, x.lastName, x.Id);
-
-                }
-
-            }
-
-            );
-
-            //employee.ForEach(x =>
-            //{
-            //    if (x.Id > 5)
-            //    {
-            //        employeeID.Add(x);
-
-            //            Console.WriteLine(x.firstName, x.lastName, x.Id);
-
-
-            //    }
-            //}
-            //);
-
-
             //foreach (var hire in employee)
             //{
             //    if (hire.firstName == "Joe")
             //    {
             //        employeeJoe.Add(hire);
-            //        Console.WriteLine(employeeJoe);
+            //        Console.WriteLine(hire.firstName);
             //    }
 
             //}
 
+            List<Employee> employeeJoe = employee.Where(x => x.firstName == "Joe").ToList();
+            foreach (var joe in employeeJoe)
+            {
+                Console.WriteLine(joe.firstName);
+            }
 
-
-
-
-
-
+            List<Employee> employeeId = employee.Where(x => x.Id > 5).ToList();
+            foreach (var id in employeeId)
+            {
+                Console.WriteLine(id.firstName, id.lastName, id.Id);
+            }
+            Console.ReadLine();
 
         }
            

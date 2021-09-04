@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Connor\\Documents\\GitHub\\LambdaAssignment\\LambdaAssignment.csproj": {}
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\LambdaAssignment\\LambdaAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Connor\\Documents\\GitHub\\LambdaAssignment\\LambdaAssignment.csproj": {
+    "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\LambdaAssignment\\LambdaAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Connor\\Documents\\GitHub\\LambdaAssignment\\LambdaAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\LambdaAssignment\\LambdaAssignment.csproj",
         "projectName": "LambdaAssignment",
-        "projectPath": "C:\\Users\\Connor\\Documents\\GitHub\\LambdaAssignment\\LambdaAssignment.csproj",
-        "packagesPath": "C:\\Users\\Connor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Connor\\Documents\\GitHub\\LambdaAssignment\\obj\\",
+        "projectPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\LambdaAssignment\\LambdaAssignment.csproj",
+        "packagesPath": "C:\\Users\\cmrEX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cmrEX\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\LambdaAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Connor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cmrEX\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
