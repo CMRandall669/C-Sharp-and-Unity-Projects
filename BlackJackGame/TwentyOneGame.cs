@@ -12,7 +12,26 @@ namespace BlackJackGame
         public override void Play()
         {
             Dealer = new TwentyOneDealer(); 
-
+            foreach (Player player in Players)
+            {
+                player.Hand = new List<Card>();
+                player.Stay = false;
+            }
+            Dealer.Hand = new List<Card>();
+            Dealer.Stay = false;
+            Dealer.Deck = new Deck();
+            Console.WriteLine("Place you bet");
+            
+            foreach (Player player in Players)
+            {
+                int bet = Convert.ToInt32(Console.ReadLine());
+                bool succesfullyBet = player.Bet(bet);
+                if (!succesfullyBet)
+                {
+                    return;
+                }
+                Bets[player] = bet;
+            }
         }
 
         public override void ListPlayers()
